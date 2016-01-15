@@ -42,6 +42,7 @@ public class ShowcaseView extends RelativeLayout
         implements View.OnClickListener, View.OnTouchListener {
 
     public static final int TYPE_NO_LIMIT = 0;
+    
 
     public static final int TYPE_ONE_SHOT = 1;
 
